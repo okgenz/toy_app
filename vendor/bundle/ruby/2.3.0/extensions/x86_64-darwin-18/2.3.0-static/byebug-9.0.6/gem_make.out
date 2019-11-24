@@ -1,0 +1,19 @@
+current directory: /Users/k/wksc_ruby/toy_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+/Users/k/.rbenv/versions/2.3.7/bin/ruby -r ./siteconf20191124-15078-pvcqju.rb extconf.rb
+creating Makefile
+
+current directory: /Users/k/wksc_ruby/toy_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/k/wksc_ruby/toy_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/k/wksc_ruby/toy_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20191124-15078-1idwzis/byebug
